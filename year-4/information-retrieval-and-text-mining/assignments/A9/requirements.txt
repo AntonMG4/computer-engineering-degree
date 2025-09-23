@@ -1,0 +1,4 @@
+python==3.9
+rank_bm25
+nltk
+pytest
