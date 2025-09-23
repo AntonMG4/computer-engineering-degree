@@ -1,1 +1,1 @@
-Individual assignments
+My solutions for the Individual assignments
